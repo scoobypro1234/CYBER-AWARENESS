@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    background-image: url("CYBERAWARENESS-INTRODUCTION-BACKGROUND.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    filter: blur(5px);
+}
+.content{
+    color: #fff;
+    margin-top: 0px;
+    text-align: center;
+}
+.content h1{
+    font-size: 90px;
+    margin-bottom: 10px;
+}
+.content p{
+    font-size: 35px;
+}
+.con{
+    color: #fff;
+    margin-top: 25px;
+    text-align: left;
+}
+.con h1{
+    font-size: 38px;
+    margin-bottom: 0px;
+}
+.con p{
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.co{
+    color: #000000;
+    margin-top: 50px;
+    text-align: left;
+}
+.co h1{
+    font-size: 50px;
+}
+.co p{
+    font-size: 25px;
+    margin-top: 15px;
+}
+.co button{
+    background-color: black;
+    color: white;
+    border: none;
+    position: absolute;
+    transform: translate();
+    margin-top: 15px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.lasttext{
+    color: #000000;
+    margin-top: 150px;
+}
+.lasttext p{
+    font-size: 25px;
+    text-align: right;
+}

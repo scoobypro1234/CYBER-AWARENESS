@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100%;
+    background-image: url("CYBERAWARENESS-MAIN-BACKGROUND.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    filter: blur(5px);
+}
+.content{
+    color: #fff;
+    margin-top: 0px;
+    text-align: center;
+}
+.content h1{
+    font-size: 90px;
+    margin-bottom: 10px;
+}
+.content p{
+    font-size: 35px;
+}
+.con{
+    color: #fff;
+    margin-top: 25px;
+    text-align: left;
+}
+.con h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.con p{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.ourcontent{
+    color:#fff;
+    margin-top: 25px;
+    text-align: left;
+}
+.ourcontent h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.ourcontent p{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.ourcontent h2{
+    font-size: 27px;
+    margin-top: 25px;
+}
+.mycontent{
+    color: black;
+    margin-top: 25px;
+    text-align: left;
+}
+.mycontent p{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.teamcontent{
+    color: black;
+    margin-top: 25px;
+    text-align: left;
+}
+.teamcontent h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.teamcontent p{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.cybercontent{
+    color: black;
+    margin-top: 25px;
+    text-align: left;
+}
+.cybercontent h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.cybercontent p{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.viruscontent{
+    color: black;
+    margin-top: 25px;
+    text-align: left;
+}
+.viruscontent h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.viruscontent p{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.malwarecontent{
+    color: black;
+    margin-top: 25px;
+    text-align: left;
+}
+.malwarecontent h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.malwarecontent p{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.ransomewarecontent{
+    color: black;
+    margin-top: 25px;
+    text-align: left;
+}
+.ransomewarecontent h1{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.ransomewarecontent p{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.antiviruscontent{
+    color: black;
+    margin-top: 25px;
+    text-align: left;
+}
+.antiviruscontent h1{
+    font-size: 35px;
+    margin-top: 10px;
+}
+.antiviruscontent p{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.antiviruscontent button{
+    background-color: black;
+    color: white;
+    border: none;
+    position: absolute;
+    transform: translate();
+    margin-top: 15px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.lasttext{
+    color: #000000;
+    margin-top: 150px;
+}
+.lasttext p{
+    font-size: 25px;
+    text-align: right;
+}
